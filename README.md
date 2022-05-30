@@ -1,7 +1,7 @@
 ### 추천시스템 강의를 듣고 정리한 부분입니다.
 
 
-#### [딥러닝을 활용한 추천시스템 구현 올인원 패키지]Online(https://fastcampus.co.kr/data_online_rs)
+#### [딥러닝을 활용한 추천시스템 구현 올인원 패키지Online](https://fastcampus.co.kr/data_online_rs)
 
 
 <br>
