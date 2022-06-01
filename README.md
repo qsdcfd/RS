@@ -3,6 +3,7 @@
 
 #### [딥러닝을 활용한 추천시스템 구현 올인원 패키지Online](https://fastcampus.co.kr/data_online_rs)
 
+[실습](https://github.com/qsdcfd/RS/tree/TIL/Definition)
 
 <br>
 
